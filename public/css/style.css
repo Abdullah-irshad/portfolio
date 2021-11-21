@@ -1,0 +1,103 @@
+
+#title{
+    background-color: #1F1D36;
+    
+}
+
+
+/* .container-fluid{
+    padding: 3% 15% 7%;
+} */
+
+
+.navbar-brand{
+
+    font-size: 2.5rem;
+    font-weight: lighter;
+   
+}
+/* .nav-item{
+    padding: 0 18px;
+} */
+
+.nav-link{
+    font-size: 1.5rem;
+}
+
+#middle{
+    background-color: #3F3351;
+}
+
+#skill{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.card{
+   margin: 7% 5%;
+   padding: 3% 4%;
+   background-color: #2C272E;
+   color: white;
+}
+
+
+/* newletter */
+
+form{
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.news{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+input[type=text] {
+    width: 20%;
+    padding: 5px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+  input[type=email]{
+      width: 20%;
+      padding: 5px 20px;
+      margin: 8px 0;
+      box-sizing: border-box;
+  }
+
+  .btn{
+      border-radius: 2px solid #00FA9A;
+      border-radius: 3px;
+      background-color:#00FA9A;
+  }
+
+/* footer */
+
+
+#footer{
+    background-color: black;
+}
+ 
+.fp{
+    padding-top: 5%;
+    color: white;
+    padding-left: 5%;
+    line-height: 3px;
+}
+.fp2{
+    color: white;
+    padding-left: 5%;
+    padding-bottom: 2%;
+}
+
+.credit{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
