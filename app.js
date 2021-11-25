@@ -12,7 +12,7 @@ app.use(express.static(__dirname));
 
 app.use(bodyParser.urlencoded({extended: true}));
 
-var ApiKey = "2eb2e5d86be93eac68c71177c1ff23a4-us20";
+var ApiKey =
 
 mailchimp.setConfig({
     apiKey : ApiKey,
@@ -101,7 +101,7 @@ app.post("/",function (req,res){
 
 })
 
-// api key 2eb2e5d86be93eac68c71177c1ff23a4-us20
+// api key 
 
 // list id 
 // 337641f1f5
